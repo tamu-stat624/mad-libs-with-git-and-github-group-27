@@ -1,21 +1,21 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+1. Friend's Name: Aman
+2. Adjective: spectacular
+3. Adjective: vast
+4. Color: pink
+5. Month: September
+6. Number: 5
+7. Noun (Plural): galaxies
+8. Noun (Plural): clusters
+9. Noun: star
+10. Room Name: 51
+11. Liquid: nitrogen
+12. Adjective: cosmic
+13. Material: titanium
+14. Activity: throwball
+15. Adverb: wistfully
+16. Number: eighty
+17. Unit of Time: years
+18. Different Activity: space travel
+19. Adjective: magnificient
+20. Vehicle: space rocket
+21. Your Name: Prachi
