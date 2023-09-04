@@ -9,11 +9,11 @@
 9. Noun
 10. Room Name
 11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
-16. Number
+12. Adjective: cosmic
+13. Material: titanium
+14. Activity: throwball
+15. Adverb: wistfully
+16. Number: four
 17. Unit of Time
 18. Different Activity
 19. Adjective
