@@ -4,11 +4,11 @@
 4. Color
 5. Month
 6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+7. Noun (Plural): crew members
+8. Noun (Plural): experts
+9. Noun: spaceships
+10. Room Name: laboratory
+11. Liquid: hydrochloric acid
 12. Adjective
 13. Material
 14. Activity
