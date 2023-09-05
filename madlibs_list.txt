@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. Friend's Name: Atul
+2. Adjective: Bright
+3. Adjective: Confident
+4. Color: Blue
+5. Month: August
+6. Number: 23
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
