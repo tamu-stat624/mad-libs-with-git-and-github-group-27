@@ -1,26 +1,3 @@
-
-1. Friend's Name 
-2. Adjective 
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun 
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material 
-14. Activity 
-15. Adverb
-16. Number 
-17. Unit of Time - years
-18. Different Activity - riding
-19. Adjective - giant
-20. Vehicle - spaceship
-21. Your Name - Kanak
-
 1. Friend's Name: Atul
 2. Adjective: Bright
 3. Adjective: Confident
@@ -37,9 +14,9 @@
 14. Activity: throwball
 15. Adverb: wistfully
 16. Number: four
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+17. Unit of Time - years
+18. Different Activity - riding
+19. Adjective - giant
+20. Vehicle - spaceship
+21. Your Name - Kanak
 
