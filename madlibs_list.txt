@@ -1,3 +1,4 @@
+
 1. Friend's Name 
 2. Adjective 
 3. Adjective
@@ -19,3 +20,26 @@
 19. Adjective - giant
 20. Vehicle - spaceship
 21. Your Name - Kanak
+
+1. Friend's Name: Atul
+2. Adjective: Bright
+3. Adjective: Confident
+4. Color: Blue
+5. Month: August
+6. Number: 23
+7. Noun (Plural): crew members
+8. Noun (Plural): experts
+9. Noun: spaceships
+10. Room Name: laboratory
+11. Liquid: hydrochloric acid
+12. Adjective: cosmic
+13. Material: titanium
+14. Activity: throwball
+15. Adverb: wistfully
+16. Number: four
+17. Unit of Time
+18. Different Activity
+19. Adjective
+20. Vehicle
+21. Your Name
+
